@@ -1,4 +1,4 @@
-# Flutter Blog App
+l# Flutter Blog App
 
 A modern **Blog Mobile Application** built with **Flutter and GetX**.
 This app allows users to create, read, and manage blog posts with a clean and responsive UI.
@@ -39,7 +39,7 @@ Google Fonts
 
 # Demo video
 
-
+https://youtube.com/shorts/uZWV0FSw-Tk?si=lEGO5lWR_kBJz05d
 
 # Author
 
