@@ -1,16 +1,52 @@
-# blog_app
+# Flutter Blog App
 
-A new Flutter project.
+A modern **Blog Mobile Application** built with **Flutter and GetX**.
+This app allows users to create, read, and manage blog posts with a clean and responsive UI.
 
-## Getting Started
+The project demonstrates **state management, UI design, and API integration** in Flutter.
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+User Authentication (Login / Register)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Create Blog Posts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+View All Blogs
+
+Edit / Delete Blogs
+
+Blog Details Screen
+
+Responsive UI Design
+
+State Management with GetX
+
+API Integration by http
+
+# Tech Stack
+
+Flutter
+
+Dart
+
+GetX (State Management)
+
+REST API
+
+HTTP Package
+
+Google Fonts
+
+# Demo video
+
+
+
+# Author
+
+**Rabby Khan**
+
+Flutter Developer
+
+# Show Your Support
+
+If you like this project, please give it a ⭐ on GitHub!
